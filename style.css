@@ -1,0 +1,30 @@
+body {
+  background-image: url(legno.jpg);
+}
+.selected {
+  background-color: black;
+  color: white;
+}
+.cards {
+  display: inline-block;
+  padding-inline: 10px;
+  text-align: center;
+}
+main {
+  margin-top: 100px;
+  margin-inline: 250px;
+}
+article {
+  margin-top: 100px;
+  margin-inline: 250px;
+}
+h1 {
+  text-align: center;
+  font-size: 200px;
+}
+button {
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  background-color: rgb(245, 245, 128);
+}
